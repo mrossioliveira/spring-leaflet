@@ -11,7 +11,7 @@
 	<groupId>com.mroliveira</groupId>
 	<artifactId>leaflet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>spring-leaflet</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
